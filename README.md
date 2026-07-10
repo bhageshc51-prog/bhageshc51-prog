@@ -59,7 +59,7 @@ const bhageshC = {
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=bhageshc51-prog&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=bhageshc51-prog&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&cache_seconds=1800" width="90%"/>
 
 </div>
 
