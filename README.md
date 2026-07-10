@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0284c7&height=200&section=header&text=Bhagesh%20C&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Information%20Science%20Engineering%20Student%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=850&height=45&lines=Information+Science+Engineering+Student;AI+Enthusiast+%7C+Aspiring+Software+Engineer;Learning+Python%2C+Java%2C+C+%26+Data+Structures;Exploring+AI+Tools+%26+AI-Driven+Development" alt="Typing SVG" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7DD3FC&center=true&vCenter=true&width=850&height=45&lines=Information+Science+Engineering+Student;AI+Enthusiast;Aspiring+Software+Engineer" alt="Typing SVG" width="100%"/>
 </a>
 
 <br/>
@@ -22,25 +22,11 @@
 ## About Me
 
 - 🎓 Information Science Engineering student
-- 🤖 AI enthusiast, exploring how AI tools can support real development work
-- 💻 Learning software development fundamentals through Python, Java, and C
-- 🌱 Currently strengthening my problem-solving and Data Structures skills
-- 🚀 Aspiring Software Engineer, building step by step
-
-<br/>
-
-## Who I Am
-
-```typescript
-const bhageshC = {
-  title: "Information Science Engineering Student | AI Enthusiast | Aspiring Software Engineer",
-  stack: ["Python", "Java", "C", "HTML", "CSS", "Git", "GitHub", "VS Code", "Gemini", "NotebookLM", "AI Tools"],
-  launchedProjects: [], // 🚧 building — nothing shipped publicly yet
-  certifications: [],
-  status: "Learning, building, and exploring AI-driven development",
-  openTo: ["Internships", "Entry-level Software Engineering roles", "Collaborative projects"]
-};
-```
+- 💻 Learning programming and software development
+- 🤖 Interested in Artificial Intelligence
+- 🧠 Exploring AI-powered development tools
+- 🌱 Building programming fundamentals
+- 🚀 Interested in future software engineering opportunities
 
 <br/>
 
@@ -50,22 +36,13 @@ const bhageshC = {
 
 ![Python](https://img.shields.io/badge/Python-7dd3fc?style=for-the-badge&logo=python&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-7dd3fc?style=for-the-badge&logo=openjdk&logoColor=black)
-![C](https://img.shields.io/badge/C-7dd3fc?style=for-the-badge&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C%20Programming-7dd3fc?style=for-the-badge&logo=c&logoColor=black)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=black)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-7dd3fc?style=for-the-badge&logo=openai&logoColor=black)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-7dd3fc?style=for-the-badge&logo=googlegemini&logoColor=black)
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-7dd3fc?style=for-the-badge&logo=git&logoColor=black)
 
 </div>
-
-<br/>
-
-## My Current Focus
-
-- 🧩 Strengthening programming fundamentals
-- 📊 Learning Data Structures
-- 🤖 Exploring AI tools and AI-driven development
-- 🏗️ Building projects step by step
-- 🔧 Improving Git and GitHub skills
 
 <br/>
 
@@ -75,7 +52,7 @@ const bhageshC = {
 
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css" />
 
-**Dev Tools**
+**Developer Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -83,6 +60,17 @@ const bhageshC = {
 
 ![Gemini](https://img.shields.io/badge/Gemini-7dd3fc?style=for-the-badge&logo=googlegemini&logoColor=black)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-7dd3fc?style=for-the-badge&logo=googlebard&logoColor=black)
+
+<br/>
+
+## My Current Focus
+
+- 🧩 Strengthening programming fundamentals
+- 📊 Learning Data Structures
+- 🤖 Exploring Artificial Intelligence
+- 🧠 Learning AI-assisted development
+- 🔧 Improving Git and GitHub skills
+- 🏗️ Building projects step by step
 
 <br/>
 
@@ -100,21 +88,35 @@ const bhageshC = {
 
 <br/>
 
+## Developer Journey
+
+- 📚 Learning consistently
+- 🤖 Exploring AI development
+- 💻 Improving programming skills
+- 🏗️ Preparing to build and publish projects
+- 🤝 Open to collaboration and learning
+
+<br/>
+
 ## Goals
 
 - ✅ Build and publish my first complete software project
-- ✅ Improve problem-solving and Data Structures skills
+- ✅ Strengthen Data Structures and problem-solving skills
+- ✅ Improve Python and Java programming
 - ✅ Learn more about Artificial Intelligence
-- ✅ Contribute to open-source projects in the future
+- ✅ Explore open-source contribution
 - ✅ Prepare for software engineering internships
 
 <br/>
 
-<div align="center">
+## What I'm Building Toward
 
-> *"Learning today. Building tomorrow. Growing every day."*
+- AI-powered applications
+- Student productivity tools
+- Intelligent software solutions
+- Programming practice projects
 
-</div>
+*Projects will be added here as I build and publish them.*
 
 <br/>
 
@@ -125,6 +127,14 @@ const bhageshC = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/bhagesh-c-737b5839b)
 [![Email](https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=black)](mailto:bhageshc51@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-7dd3fc?style=for-the-badge&logo=github&logoColor=black)](https://github.com/bhageshc51-prog)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> *"Learning today. Building tomorrow. Growing every day."*
 
 </div>
 
