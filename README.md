@@ -29,6 +29,21 @@
 
 <br/>
 
+## Who I Am
+
+```typescript
+const bhageshC = {
+  title: "Information Science Engineering Student | AI Enthusiast | Aspiring Software Engineer",
+  stack: ["Python", "Java", "C", "HTML", "CSS", "Git", "GitHub", "VS Code", "Gemini", "NotebookLM", "AI Tools"],
+  launchedProjects: [], // 🚧 building — nothing shipped publicly yet
+  certifications: [],
+  status: "Learning, building, and exploring AI-driven development",
+  openTo: ["Internships", "Entry-level Software Engineering roles", "Collaborative projects"]
+};
+```
+
+<br/>
+
 ## Currently Learning
 
 <div align="center">
